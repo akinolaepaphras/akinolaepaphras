@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/19H-f968nkKS5glsjmdA3MGztUZPfxOCzhW_i3x35xvg/edit?usp=sharing](https://docs.google.com/document/d/19H-f968nkKS5glsjmdA3MGztUZPfxOCzhW_i3x35xvg/edit?usp=sharing)
 
-- ⚡ Fun fact **I am so funny**
+- ⚡ Fun fact **I write about Games as well! [https://medium.com/@akinolaepaphras2304]**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
