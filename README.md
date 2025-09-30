@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **akinolaepaphras1207@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/19H-f968nkKS5glsjmdA3MGztUZPfxOCzhW_i3x35xvg/edit?usp=sharing](https://docs.google.com/document/d/19H-f968nkKS5glsjmdA3MGztUZPfxOCzhW_i3x35xvg/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1DxoO2-mYDR8TdDv-ys1gCCVmULyN857AWU5V_Q1fygM/edit?usp=sharing]
 
 - ⚡ Fun fact **I write about Games as well! [https://medium.com/@akinolaepaphras2304]**
 
