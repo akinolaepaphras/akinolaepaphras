@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Epaphras Oluwatimilehin Akinola</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akinolaepaphras&label=Profile%20views&color=0e75b6&style=flat" alt="akinolaepaphras" /> </p>
 
-- 🌱 I’m currently learning **https://www.coursera.org/specializations/data-structures-algorithms**
+- 🌱 I’m currently learning **https://scrimba.com/the-ai-engineer-path-c02v/~04**
 
-- 📝 I regularly write articles on [https://medium.com/@epaphrasakinola](https://medium.com/@epaphrasakinola)
+- 📝 I regularly write articles on https://medium.com/@epaphrasakinola
 
-- 💬 Ask me about **CSS**
+- 🥣 I eat **leetcode** for lunch
 
 - 📫 How to reach me **akinolaepaphras1207@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1DxoO2-mYDR8TdDv-ys1gCCVmULyN857AWU5V_Q1fygM/edit?usp=sharing]
+- 📄 Know about my experiences https://docs.google.com/document/d/1DxoO2-mYDR8TdDv-ys1gCCVmULyN857AWU5V_Q1fygM/edit?usp=sharing
 
-- ⚡ Fun fact **I write about Games as well! [https://medium.com/@akinolaepaphras2304]**
+- ⚡ Fun fact **I write about Games as well! https://medium.com/@akinolaepaphras2304**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
