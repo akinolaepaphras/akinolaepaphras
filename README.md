@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Epaphras Oluwatimilehin Akinola</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akinolaepaphras&label=Profile%20views&color=0e75b6&style=flat" alt="akinolaepaphras" /> </p>
 
-- 🌱 I’m currently learning **https://scrimba.com/the-ai-engineer-path-c02v/~04**
+- 🌱 I’m currently doing **won at TreeHacks**
 
 - 📝 I regularly write articles on https://medium.com/@epaphrasakinola
 
