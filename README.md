@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Epaphras Oluwatimilehin Akinola</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akinolaepaphras&label=Profile%20views&color=0e75b6&style=flat" alt="akinolaepaphras" /> </p>
 
-- 🌱 I recently won at the **TreeHacks** Hackathon
+- 🎉 I recently won two tracks at the **TreeHacks** hackathon at Stanford! 
 
 - 📝 I regularly write articles on https://medium.com/@epaphrasakinola
 
